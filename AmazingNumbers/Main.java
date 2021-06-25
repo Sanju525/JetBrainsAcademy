@@ -53,8 +53,6 @@ class AmazingNumbers {
             return !isJumping(num);
         }
     }
-
-
     void printProps(long i) {
         System.out.println("\nProperties of " + i);
         System.out.println("        even: " + isEven(i) + "\n" +
@@ -115,7 +113,6 @@ class AmazingNumbers {
             i++;
         }
     }
-
     void printProps(long num, long range, String[] args) {
         boolean checkProps;
         long checkRange = 0;
@@ -154,7 +151,6 @@ class AmazingNumbers {
             error4(exStr1, exStr2);
         }
     }
-
     static void suppportedRequests(){
         System.out.println("\nSupported requests:\n" +
                 "- enter a natural number to know its properties;\n" +
@@ -281,7 +277,6 @@ class AmazingNumbers {
         }
         return true;
     }
-
     boolean isZero(long i) {
         return i == 0;
     }
@@ -292,9 +287,7 @@ class AmazingNumbers {
         boolean type4 = str1.toUpperCase().equals("HAPPY") && str2.toUpperCase().equals("SAD") || str2.toUpperCase().equals("HAPPY") && str1.toUpperCase().equals("SAD");
 
         boolean type01 = str1.toUpperCase().equals("-EVEN") && str2.toUpperCase().equals("-ODD") || str2.toUpperCase().equals("-EVEN") && str1.toUpperCase().equals("-ODD");
-//        boolean type02 = str1.toUpperCase().equals("-SUNNY") && str2.toUpperCase().equals("-SQUARE") || str2.toUpperCase().equals("-SUNNY") && str1.toUpperCase().equals("-SQUARE");;
-//        boolean type03 = str1.toUpperCase().equals("-DUCK") && str2.toUpperCase().equals("-SPY") || str2.toUpperCase().equals("-DUCK") && str1.toUpperCase().equals("-SPY");
-        boolean type04 = str1.toUpperCase().equals("-HAPPY") && str2.toUpperCase().equals("-SAD") || str2.toUpperCase().equals("-HAPPY") && str1.toUpperCase().equals("-SAD");
+        boolean type02 = str1.toUpperCase().equals("-HAPPY") && str2.toUpperCase().equals("-SAD") || str2.toUpperCase().equals("-HAPPY") && str1.toUpperCase().equals("-SAD");
 
         boolean typeA1 = str1.toUpperCase().equals("EVEN") && str2.toUpperCase().equals("-EVEN") || str2.toUpperCase().equals("EVEN") && str1.toUpperCase().equals("-EVEN");
         boolean typeA2 = str1.toUpperCase().equals("ODD") && str2.toUpperCase().equals("-ODD") || str2.toUpperCase().equals("ODD") && str1.toUpperCase().equals("-ODD");
@@ -307,8 +300,8 @@ class AmazingNumbers {
         boolean typeA9 = str1.toUpperCase().equals("GAPFUL") && str2.toUpperCase().equals("-GAPFUL") || str2.toUpperCase().equals("GAPFUL") && str1.toUpperCase().equals("-GAPFUL");
         boolean typeA10 = str1.toUpperCase().equals("BUZZ") && str2.toUpperCase().equals("-BUZZ") || str2.toUpperCase().equals("BUZZ") && str1.toUpperCase().equals("-BUZZ");
 
-//      type01 || type02 || type03 ||
-        if (type1 || type2 || type01 || type3 || type4 || type04 || typeA1 || typeA2 || typeA3 || typeA4 || typeA5 || typeA6 || typeA7 || typeA8 || typeA9 || typeA10) {
+
+        if (type1 || type01|| type2 || type02  || type3 || type4 || typeA1 || typeA2 || typeA3 || typeA4 || typeA5 || typeA6 || typeA7 || typeA8 || typeA9 || typeA10) {
             return true;
         }
         return false;
