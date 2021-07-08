@@ -135,7 +135,7 @@ public class Main {
         tt.print();
         int turn = 0;
         while (true) {
-            System.out.println("Enter the coordinates: ");
+            System.out.print("Enter the coordinates: ");
             int cordInput1, cordInput2;
             String input2 = sc.nextLine();
             try {
