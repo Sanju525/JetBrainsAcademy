@@ -15,3 +15,5 @@
 
 ## Resources
 [Mastering Regular Expressions](http://www.amazon.com/exec/obidos/ASIN/0596002890/javasoftsunmicroA) by Jeffrey E. F. Friedl.
+
+[Regular Expressions](https://docs.oracle.com/javase/tutorial/essential/regex/index.html) Oracle Java Documentaion.
