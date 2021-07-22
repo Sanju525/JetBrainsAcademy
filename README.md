@@ -1,8 +1,11 @@
 # JetBrainsAcademy Projects
 
 ## Projects
+
+### [Track: Java Developer](https://hyperskill.org/tracks/1) by JetBrains Acedemy
+
 > Easy
-> 
+
 [`Amazing Numbers`](https://hyperskill.org/projects/184?track=1)
 
 [`Cinema Room Manager`](https://hyperskill.org/projects/133?track=1)
