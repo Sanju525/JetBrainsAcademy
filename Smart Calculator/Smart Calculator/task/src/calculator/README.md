@@ -4,11 +4,11 @@
 
 `Introduction to Java`, `Basic literals`, `Overview of the basic program`, `Printing data`, `Types and variables`, `Comments`,
 
-`Coding style conventions`, `Naming variables`, `Scanning the input`, `Arithmetic operations`, 
+`Coding style conventions`, `Naming variables`, `Scanning the input`, `Arithmetic operations`, `Conditional statement`, 
 
 `Integer types and operations`, `Boolean and logical operations`, `Relational operators`, `Increment and decrement`, 
 
-`Conditional statement`, `Ternary operator`, `The for-loop`.
+`Ternary operator`, `The for-loop`.
 ##
 > Stage 2
 
