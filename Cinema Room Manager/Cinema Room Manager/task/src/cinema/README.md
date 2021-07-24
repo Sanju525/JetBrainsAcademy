@@ -17,6 +17,7 @@ This project is a good opportunity to work with input and output in Java. You wi
 > Stage 1
 
 `Introduction to Java`, `Basic literals`, `Overview of the basic program`, `Printing data`.
+##
 
 > Stage 2
 
@@ -25,6 +26,7 @@ This project is a good opportunity to work with input and output in Java. You wi
 `Arithmetic operations`, `Integer types and operations`, `Boolean and logical operations`, `Relational operators`, 
 
 `Conditional statement`.
+##
 
 > Stage 3
 
@@ -33,10 +35,12 @@ This project is a good opportunity to work with input and output in Java. You wi
 `Branching statements`, `Units of information`, `Sizes and ranges`, `Type casting`, `Calling a method`, 
 
 `Primitive and reference types`, `Array`, `Iterating over arrays`, `Multidimensional array`.
+##
 
 > Stage 4
 
 `Switch statement`, `Declaring a method`, `The main method`, `Functional decomposition`, `Arrays as parameters`.
+##
 
 > Stage 5
 
