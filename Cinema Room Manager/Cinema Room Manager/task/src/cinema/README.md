@@ -1,10 +1,10 @@
 # Cinema Room Manager
 
-> Project-2
+> Project 2
 
-> Start Date : 25-6-2021 
+> Start Date : 25-06-2021 
 
-> End Date : 26-6-2021
+> End Date : 26-06-2021
 
 ## About
 Cinema has been a part of the entertainment industry for a long time: a good movie is a way to escape reality and live through a variety of emotions. The best cinema experience you can get is probably in a cinema theatre. In this project, you will create an application that helps manage a cinema theatre: sell tickets, check available seats, see sales statistics, and more.
