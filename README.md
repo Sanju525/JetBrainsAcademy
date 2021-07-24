@@ -2,7 +2,7 @@
 
 ## Projects
 
-### [Track: Java Developer](https://hyperskill.org/tracks/1) by JetBrains Acedemy
+### [Track: Java Developer](https://hyperskill.org/tracks/1) by JetBrains Acedemy :rocket: 
 
 > Easy
 
