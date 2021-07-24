@@ -34,14 +34,14 @@ Apart from writing a useful program (everyone uses calculators!), you will learn
 `Multidimensional array`, `String`, `Processing strings`.
 ##
 
-> Stage 3 (Start: 13-07-2021/ End: 14-07-2021)
+> Stage 3 (Start: 14-07-2021/ End: 14-07-2021)
 
 `Declaring a method`, `Arrays as parameters`, `Introduction to operating systems`, `Command line overview`,
 
 `Parameters and options`, `Write, compile, and run`, `JVM, JRE, and JDK`, `Running programs on your computer`.
 ##
 
-> Stage 4 (Start: 14-07-2021/ End: 18-07-2021)
+> Stage 4 (Start: 15-07-2021/ End: 18-07-2021)
 
 `Computer programming`, `Introduction to OOP`, `Switch statement`, `Regexps basics`, `The main method`, 
 
