@@ -14,12 +14,12 @@ This project is a good opportunity to work with input and output in Java. You wi
 
 
 ## Project Prerequisites
-> Stage 1
+> Stage 1 (Start: 25-06-2021/ End: 25-06-2021)
 
 `Introduction to Java`, `Basic literals`, `Overview of the basic program`, `Printing data`.
 ##
 
-> Stage 2
+> Stage 2 (Start: 25-06-2021/ End: 25-06-2021)
 
 `Types and variables`, `Comments`, `Coding style conventions`, `Naming variables`, `Scanning the input`, 
 
@@ -28,7 +28,7 @@ This project is a good opportunity to work with input and output in Java. You wi
 `Conditional statement`.
 ##
 
-> Stage 3
+> Stage 3 (Start: 25-06-2021/ End: 25-06-2021)
 
 `Increment and decrement`, `Characters`, `Ternary operator`, `The for-loop`, `The while and do-while loops`, 
 
@@ -37,12 +37,12 @@ This project is a good opportunity to work with input and output in Java. You wi
 `Primitive and reference types`, `Array`, `Iterating over arrays`, `Multidimensional array`.
 ##
 
-> Stage 4
+> Stage 4 (Start: 25-06-2021/ End: 25-06-2021)
 
 `Switch statement`, `Declaring a method`, `The main method`, `Functional decomposition`, `Arrays as parameters`.
 ##
-
-> Stage 5
+ 
+> Stage 5 (Start: 26-06-2021/ End: 26-06-2021)
 
 `String`, `Formatted output`, `Final variables`, `Write, compile, and run`, `Errors in programs`, `What is an exception`, `NPE`,
 
