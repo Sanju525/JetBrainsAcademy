@@ -1,3 +1,18 @@
+# Simple Tic-Tac-Toe
+
+> Project 3
+
+> Start Date: 26-06-2021 
+
+> End Date: 08-07-2021
+
+## About
+Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!
+
+
+## Learning outcomes
+After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using methods, handling errors, and processing user input.
+
 ## Project Prerequisites
 > Stage 1
 
@@ -6,11 +21,11 @@
 `Coding style conventions`, `Naming variables`, `Scanning the input`, `Arithmetic operations`,  `Units of information`, 
 
 `Integer types and operations`, `Sizes and ranges`, `Type casting`. 
-##
+
 > Stage 2
 
 `Increment and decrement`, `Characters`, `Calling a method`, `Primitive and reference types`, `Array`, `String`.
-##
+
 > Stage 3
 
 `Boolean and logical operations`, `Relational operators`, `Conditional statement`, `Ternary operator`, `The for-loop`, 
@@ -18,11 +33,11 @@
 `The while and do-while loops`, `Branching statements`, `Iterating over arrays`, `Multidimensional array`, `IDE`, 
 
 `IntelliJ IDEA`, `IDEA Basics`, `EduTools`.
-##
+
 > Stage 4
 
 `Write, compile, and run`, `Errors in programs`.
-##
+
 > Stage 5
 
 `Switch statement`.
