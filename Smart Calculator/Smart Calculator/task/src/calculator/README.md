@@ -1,4 +1,4 @@
-# Smart Calculator
+# Smart Calculator [:rocket:](https://hyperskill.org/projects/42?track=1)
 
 > Project 4
 
