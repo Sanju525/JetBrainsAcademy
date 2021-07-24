@@ -1,4 +1,4 @@
-# Simple Tic-Tac-Toe
+# Simple Tic-Tac-Toe [:rocket:](https://hyperskill.org/projects/48?track=1)
 
 > Project 3
 
