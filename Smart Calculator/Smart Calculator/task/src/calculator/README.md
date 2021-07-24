@@ -1,4 +1,4 @@
-## Track Prerequisites
+## Project Prerequisites
 
 > Stage 1
 
