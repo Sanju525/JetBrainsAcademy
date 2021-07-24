@@ -4,11 +4,11 @@
 
 `Introduction to Java`, `Basic literals`, `Overview of the basic program`, `Printing data`, `Types and variables`, `Comments`,
 
-`Coding style conventions`, `Naming variables`, `Scanning the input`, `Arithmetic operations`, `Integer types and operations`,
+`Coding style conventions`, `Naming variables`, `Scanning the input`, `Arithmetic operations`, 
 
-`Boolean and logical operations`, `Relational operators`, `Increment and decrement`, `Conditional statement`, `Ternary operator`, 
+`Integer types and operations`, `Boolean and logical operations`, `Relational operators`, `Increment and decrement`, 
 
-`The for-loop`.
+`Conditional statement`, `Ternary operator`, `The for-loop`.
 ##
 > Stage 2
 
@@ -41,9 +41,10 @@
 `Hiding and overriding`, `What is an exception`, `Hierarchy of exceptions`, `Exception handling`.
 ##
 > Stage 6
-```
 
-```
+`Immutability`, `Computer algorithms`, `The big O notation`, `Data structures`, `Fixed-size array`, `Dynamic array`, 
+
+`Hashing: overview`, 
 ##
 > Stage 7
 ```
