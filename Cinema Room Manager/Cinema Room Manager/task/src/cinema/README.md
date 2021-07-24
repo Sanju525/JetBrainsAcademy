@@ -1,4 +1,4 @@
-# Cinema Room Manager
+# Cinema Room Manager [:rocket:](https://hyperskill.org/projects/133?track=1)
 
 > Project 2
 
