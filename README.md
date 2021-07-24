@@ -24,3 +24,5 @@
 [Dynamic Memory Allocation](https://stackoverflow.com/questions/1100311/what-is-the-ideal-growth-rate-for-a-dynamically-allocated-array) Stack Overflow.
 
 [Amortized Analysis](https://en.wikipedia.org/wiki/Amortized_analysis) Wikipedia.
+
+[SHA256](https://xorbin.com/tools/sha256-hash-calculator) XORBIN.
