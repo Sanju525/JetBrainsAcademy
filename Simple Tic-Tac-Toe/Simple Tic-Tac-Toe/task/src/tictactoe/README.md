@@ -1,4 +1,4 @@
-## Tracks Prerequisites
+## Project Prerequisites
 > Stage 1
 
 `Introduction to Java`, `Basic literals`, `Overview of the basic program`, `Printing data`, `Types and variables`, `Comments`, 
