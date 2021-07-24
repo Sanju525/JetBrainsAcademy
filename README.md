@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Track: Java Developer by JetBrains Acedemy [:rocket:](https://hyperskill.org/tracks/1)
+### Track: Java :coffee: Developer by JetBrains Acedemy [:rocket:](https://hyperskill.org/tracks/1)
 
 > Easy
 
