@@ -61,7 +61,7 @@ Apart from writing a useful program (everyone uses calculators!), you will learn
 `Hiding and overriding`, `What is an exception`, `Hierarchy of exceptions`, `Exception handling`.
 ##
 
-> Stage 6 (Start: 23-07-2021/ End: )
+> Stage 6 (Start: -07-2021/ End: )
 
 `Immutability`, `Computer algorithms`, `The big O notation`, `Data structures`, `Fixed-size array`, `Dynamic array`, 
 
