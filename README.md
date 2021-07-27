@@ -6,7 +6,7 @@
 
 > Easy
 
-:link: [`Amazing Numbers`](https://hyperskill.org/projects/184?track=1)
+:link: [`Amazing Numbers`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/AmazingNumbers)
 
 :link: [`Cinema Room Manager`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Cinema%20Room%20Manager/Cinema%20Room%20Manager/task/src/cinema)
 
