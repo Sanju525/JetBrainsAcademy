@@ -1,4 +1,4 @@
-# Coffee Machine
+# Coffee Machine [:rocket:](https://hyperskill.org/projects/33?track=12)
 
 > Project 5
 
