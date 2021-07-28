@@ -12,6 +12,9 @@
 
 :link: [`Simple Tic-Tac-Toe`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Simple%20Tic-Tac-Toe/Simple%20Tic-Tac-Toe/task/src/tictactoe)
 
+:link: [`Coffee Machine`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Coffee%20Machine/Coffee%20Machine/task/src/machine)
+
+
 > Hard
 
 :link: [`Smart Calculator`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Smart%20Calculator/Smart%20Calculator/task/src/calculator)
