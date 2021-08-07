@@ -31,3 +31,5 @@
 [SHA256](https://xorbin.com/tools/sha256-hash-calculator) XORBIN.
 
 [InfixToPostfix/ PostfixEvaluation](http://www.cs.nthu.edu.tw/~wkhon/ds/ds10/tutorial/tutorial2.pdf) Microsoft PowerPoint.
+
+[Floating Point](https://introcs.cs.princeton.edu/java/91float/) PrincetonEdu.
