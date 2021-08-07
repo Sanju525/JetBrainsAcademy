@@ -65,16 +65,18 @@ Apart from writing a useful program (everyone uses calculators!), you will learn
 
 `Immutability`, `Computer algorithms`, `The big O notation`, `Data structures`, `Fixed-size array`, `Dynamic array`, 
 
-`Hashing: overview`, 
+`Hashing: overview`, `Hash function`, `Hash table`, `Protected modifier`, `Referencing subclass objects`, `The Object class`, 
+
+`NPE`, `Boxing and unboxing`, `Introduction to generic programming`, `Generics and Object`, `What are collections`,
+
+`ArrayList`, `The Collections Framework overview`, `The List interface`, `The Set interface`, `The Map interface`.
 ##
 
 > Stage 7 (Start: 06-08-2021 / End: 07-08-2021)
-```
 
-```
+`Stack`, `Queue`, `Deque`, `Queue and Stack`.
 ##
 
 > Stage 8 (Start: 07-08-2021/ End: 07-08-2021)
-```
 
-```
+`BigInteger`.
