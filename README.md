@@ -14,6 +14,8 @@
 
 :link: [`Coffee Machine`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Coffee%20Machine/Coffee%20Machine/task/src/machine)
 
+:link: [`Number Base converter`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Number%20Base%20Converter/Number%20Base%20Converter/task/src/converter)
+
 
 > Hard
 
