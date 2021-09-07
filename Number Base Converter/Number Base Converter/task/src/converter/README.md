@@ -12,47 +12,6 @@ We’re all quite used to our good old decimal system of numerals. But let’s n
 ## Learning outcomes
 You will master loops and functions, learn about numeric data types, and explore different numeral systems including binary — one of the basic concepts in programming.
 
-## Project Prerequisites
-
-> Stage 1 (Start: 07-08-2021/ End: 07-08-2021)
-
-`Floating-point types`, `Ternary operator`, `Binary numbers`, `Converting from decimal to binary`, `Hexadecimal numbers`, 
-
-`Octal numbers`, `Units of information`, `Introduction to Java`, `Basic literals`, `Overview of the basic program`, 
-
-`Printing data`, `Types and variables`, `Sizes and ranges`, `Comments`, `Coding style conventions`, `Naming variables`, 
-
-`Scanning the input`, `Arithmetic operations`, `Integer types and operations`,`Boolean and logical operations`, 
-
-`Relational operators`, `Increment and decrement`, `Conditional statement`, `The while and do-while loops`.
-
-##
-
-> Stage 2 (Start: 07-08-2021/ End: 07-08-2021)
-
-`Math library`, `Comparable`, `Converting from binary to decimal`, `Numeric literals`, `Computer programming`, `Type casting`,
-
-`Introduction to OOP`, `Characters`, `The for-loop`, `Branching statements`, `Switch statement`, `Calling a method`, 
-
-`Declaring a method`, `The main method`, `Functional decomposition`, `Primitive and reference types`, `Array`, `String`, 
-
-`Write, compile, and run`, `Defining classes`, `Objects`, `Interface`, `Processing strings`.
-
-##
-
-> Stage 3 (Start: 08-08-2021/ End: 08-08-2021)
-
-`BigInteger`.
-
-##
-
-> Stage 4 (Start: 08-08-2021/ End: 08-08-2021)
-
-`BigDecimal`, `Decimal to binary: fractions`.
-
-##
-
-
 ## Example
 
 ### Input/ Output
