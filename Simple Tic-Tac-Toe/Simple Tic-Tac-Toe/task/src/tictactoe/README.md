@@ -13,39 +13,6 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also
 ## Learning outcomes
 After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using methods, handling errors, and processing user input.
 
-## Project Prerequisites
-> Stage 1 (Start: 26-06-2021/ End: 26-06-2021)
-
-`Introduction to Java`, `Basic literals`, `Overview of the basic program`, `Printing data`, `Types and variables`, `Comments`, 
-
-`Coding style conventions`, `Naming variables`, `Scanning the input`, `Arithmetic operations`,  `Units of information`, 
-
-`Integer types and operations`, `Sizes and ranges`, `Type casting`. 
-##
-
-> Stage 2 (Start: 08-07-2021/ End: 08-07-2021)
-
-`Increment and decrement`, `Characters`, `Calling a method`, `Primitive and reference types`, `Array`, `String`.
-##
-
-> Stage 3 (Start: 08-07-2021/ End: 08-07-2021)
-
-`Boolean and logical operations`, `Relational operators`, `Conditional statement`, `Ternary operator`, `The for-loop`, 
-
-`The while and do-while loops`, `Branching statements`, `Iterating over arrays`, `Multidimensional array`, `IDE`, 
-
-`IntelliJ IDEA`, `IDEA Basics`, `EduTools`.
-##
-
-> Stage 4 (Start: 08-07-2021/ End: 08-07-2021)
-
-`Write, compile, and run`, `Errors in programs`.
-##
-
-> Stage 5 (Start: 08-07-2021/ End: 08-07-2021)
-
-`Switch statement`.
-
 ## Example 
 
 The example below shows how your program should work.
