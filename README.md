@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Track: Java :coffee: Developer by JetBrains Acedemy [:rocket:](https://hyperskill.org/tracks/1)
+### Java :coffee: Developer by JetBrains Acedemy [:rocket:](https://hyperskill.org/tracks/1)
 
 > Easy
 
@@ -21,7 +21,7 @@
 
 :link: [`Smart Calculator`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Smart%20Calculator/Smart%20Calculator/task/src/calculator)
 
-### Track: Java :coffee: Backend Developer by JetBrains Acedemy [:rocket:](https://hyperskill.org/tracks/12)
+### Java :coffee: Backend Developer by JetBrains Acedemy [:rocket:](https://hyperskill.org/tracks/12)
 
 > Medium
 
