@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.sql.*;
 import java.util.*;
 
-// Included Database
+// Included Database SQLite
 
 class Account {
 //    Select and Update
