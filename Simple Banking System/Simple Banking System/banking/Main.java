@@ -2,6 +2,8 @@ package banking;
 
 import java.util.*;
 
+// No Database Involved
+
 class Account {
     public static int logIn(CreditCard accountHolder) {
         Scanner sc = new Scanner(System.in);
