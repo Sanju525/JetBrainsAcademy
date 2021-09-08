@@ -138,7 +138,7 @@ class CreditCard {
 }
 
 
-public class Main {
+public class MainNoDataBase {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Map<String, CreditCard> accounts = new HashMap<>();
