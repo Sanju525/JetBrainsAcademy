@@ -220,7 +220,7 @@ class CreditCard {
     }
 }
 
-public class Main {
+public class MainDB {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         File file = new File(args[1]);
