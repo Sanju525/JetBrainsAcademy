@@ -27,6 +27,12 @@
 
 :link: [`Simple Banking System`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Simple%20Banking%20System/Simple%20Banking%20System/banking)
 
+> Hard
+
+:link: `Cinema Room REST Service`
+
+
+
 
 
 ## Resources
