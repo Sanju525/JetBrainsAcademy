@@ -55,3 +55,11 @@
 [BigDecimal](https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html) Oracle.
 
 [SQLite Java](https://sqlitetutorial.net/sqlite-java/) SQLite Tutorial.
+
+[HTTP Methods](https://www.restapitutorial.com/lessons/httpmethods.html) REST API Tutorial.
+
+[Spring Initializr](https://start.spring.io/) Start-Spring-io.
+
+[Spring Docx](https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html) Spring.
+
+[Gradle](https://docs.gradle.org/current/samples/sample_building_java_applications_multi_project.html) Docx.
