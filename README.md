@@ -53,3 +53,5 @@
 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html) RapidTables.
 
 [BigDecimal](https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html) Oracle.
+
+[SQLite Java](https://sqlitetutorial.net/sqlite-java/) SQLite Tutorial.
