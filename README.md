@@ -36,6 +36,9 @@
 
 
 ## Resources
+
+### Java Developer
+
 [Mastering Regular Expressions](http://www.amazon.com/exec/obidos/ASIN/0596002890/javasoftsunmicroA) by Jeffrey E. F. Friedl.
 
 [Regular Expressions](https://docs.oracle.com/javase/tutorial/essential/regex/index.html) Oracle Java Documentaion.
@@ -53,6 +56,8 @@
 [Base Converter](https://www.rapidtables.com/convert/number/base-converter.html) RapidTables.
 
 [BigDecimal](https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html) Oracle.
+
+### Java Backend Developer
 
 [SQLite Java](https://sqlitetutorial.net/sqlite-java/) SQLite Tutorial.
 
