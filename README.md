@@ -75,3 +75,14 @@
 Guide to [UUID](https://www.baeldung.com/java-uuid) in Java.
 
 How to Set a [Header](https://www.baeldung.com/spring-response-header) on a Response with Spring 5.
+
+Project [Lombok](https://projectlombok.org/)
+
+Integrating Lombok with [IDE](https://projectlombok.org/setup/intellij)
+
+[Generate Code](https://www.jetbrains.com/help/idea/generating-code.html#generate-constructors) in IntelliJ.
+
+Lombok [Features](https://projectlombok.org/features/all)
+
+
+
