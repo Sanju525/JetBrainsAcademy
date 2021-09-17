@@ -29,7 +29,7 @@
 
 > Hard
 
-:link: [`Cinema Room REST Service`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Cinema%20Room%20REST%20Service)
+:link: [`Cinema Room REST Service`](https://github.com/Sanju525/JetBrainsAcademy/tree/main/Cinema%20Room%20REST%20Service/Cinema%20Room%20Rest%20Service/task/src/cinema)
 
 
 
