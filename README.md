@@ -70,6 +70,8 @@
 
 [Spring Docx](https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html) Spring
 
+Common Application [Properties](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html#application-properties.templating)
+
 [Gradle](https://docs.gradle.org/current/samples/sample_building_java_applications_multi_project.html) Docx
 
 Guide to [UUID](https://www.baeldung.com/java-uuid) in Java
