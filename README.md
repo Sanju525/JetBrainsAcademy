@@ -86,4 +86,6 @@ Lombok [Features](https://projectlombok.org/features/all)
 
 Block level [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#elements)
 
+Apache [FreeMarker](https://freemarker.apache.org/docs/index.html) Manual
 
+Model [Docx](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/ui/Model.html)
