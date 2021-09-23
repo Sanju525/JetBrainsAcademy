@@ -42,48 +42,48 @@
 
 ### Java Developer
 
-[Mastering Regular Expressions](http://www.amazon.com/exec/obidos/ASIN/0596002890/javasoftsunmicroA) by Jeffrey E. F. Friedl.
+[Mastering Regular Expressions](http://www.amazon.com/exec/obidos/ASIN/0596002890/javasoftsunmicroA) by Jeffrey E. F. Friedl
 
-[Regular Expressions](https://docs.oracle.com/javase/tutorial/essential/regex/index.html) Oracle Java Documentaion.
+[Regular Expressions](https://docs.oracle.com/javase/tutorial/essential/regex/index.html) Oracle Java Documentaion
 
-[Dynamic Memory Allocation](https://stackoverflow.com/questions/1100311/what-is-the-ideal-growth-rate-for-a-dynamically-allocated-array) Stack Overflow.
+[Dynamic Memory Allocation](https://stackoverflow.com/questions/1100311/what-is-the-ideal-growth-rate-for-a-dynamically-allocated-array) Stack Overflow
 
-[Amortized Analysis](https://en.wikipedia.org/wiki/Amortized_analysis) Wikipedia.
+[Amortized Analysis](https://en.wikipedia.org/wiki/Amortized_analysis) Wikipedia
 
-[SHA256](https://xorbin.com/tools/sha256-hash-calculator) XORBIN.
+[SHA256](https://xorbin.com/tools/sha256-hash-calculator) XORBIN
 
-[InfixToPostfix/ PostfixEvaluation](http://www.cs.nthu.edu.tw/~wkhon/ds/ds10/tutorial/tutorial2.pdf) Microsoft PowerPoint.
+[InfixToPostfix/ PostfixEvaluation](http://www.cs.nthu.edu.tw/~wkhon/ds/ds10/tutorial/tutorial2.pdf) Microsoft PowerPoint
 
-[Floating Point](https://introcs.cs.princeton.edu/java/91float/) PrincetonEdu.
+[Floating Point](https://introcs.cs.princeton.edu/java/91float/) PrincetonEdu
 
-[Base Converter](https://www.rapidtables.com/convert/number/base-converter.html) RapidTables.
+[Base Converter](https://www.rapidtables.com/convert/number/base-converter.html) RapidTables
 
-[BigDecimal](https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html) Oracle.
+[BigDecimal](https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html) Oracle
 
 ### Java Backend Developer
 
-[SQLite Java](https://sqlitetutorial.net/sqlite-java/) SQLite Tutorial.
+[SQLite Java](https://sqlitetutorial.net/sqlite-java/) SQLite Tutorial
 
-[HTTP Methods](https://www.restapitutorial.com/lessons/httpmethods.html) REST API Tutorial.
+[HTTP Methods](https://www.restapitutorial.com/lessons/httpmethods.html) REST API Tutorial
 
-[Spring Initializr](https://start.spring.io/) Start-Spring-io.
+[Spring Initializr](https://start.spring.io/) Start-Spring-io
 
-[Spring Docx](https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html) Spring.
+[Spring Docx](https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html) Spring
 
-[Gradle](https://docs.gradle.org/current/samples/sample_building_java_applications_multi_project.html) Docx.
+[Gradle](https://docs.gradle.org/current/samples/sample_building_java_applications_multi_project.html) Docx
 
-Guide to [UUID](https://www.baeldung.com/java-uuid) in Java.
+Guide to [UUID](https://www.baeldung.com/java-uuid) in Java
 
-How to Set a [Header](https://www.baeldung.com/spring-response-header) on a Response with Spring 5.
+How to Set a [Header](https://www.baeldung.com/spring-response-header) on a Response with Spring 5
 
-Project [Lombok](https://projectlombok.org/).
+Project [Lombok](https://projectlombok.org/)
 
-Integrating Lombok with [IDE](https://projectlombok.org/setup/intellij).
+Integrating Lombok with [IDE](https://projectlombok.org/setup/intellij)
 
-[Generate Code](https://www.jetbrains.com/help/idea/generating-code.html#generate-constructors) in IntelliJ.
+[Generate Code](https://www.jetbrains.com/help/idea/generating-code.html#generate-constructors) in IntelliJ
 
-Lombok [Features](https://projectlombok.org/features/all).
+Lombok [Features](https://projectlombok.org/features/all)
 
-Block level [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#elements).
+Block level [Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements#elements)
 
 
